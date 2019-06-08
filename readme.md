@@ -1,6 +1,5 @@
 # Bounce 
 
-![travis badge](https://travis-ci.com/areThereAnyUserNamesLeft/bounce.svg?branch=master)
 
 Fun little api testing tool in the making.
 
